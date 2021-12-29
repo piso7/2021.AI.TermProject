@@ -41,7 +41,7 @@ Startup Success Prediction
 ![image](https://user-images.githubusercontent.com/62230550/147653832-16effd3f-5578-4fdc-9cbf-f906601eb791.png)
 디펜스에 성공하였습니다.
 
-### ▶ 참고 링크
+### ▶ 링크
 Raw 데이터 출처:  
 https://github.com/chenchenpan/Predict-Success-of-Startups/blob/master/companies.csv  
 https://www.kaggle.com/ajitpasayat/startup-success-prediction-dataset
