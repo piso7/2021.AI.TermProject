@@ -1,5 +1,6 @@
-# 2021.AI.TermProject
-Startup Success Prediction  
+# Startup Success Prediction  
+2021.AI.TermProject
+
 인공지능 미니챌린지 / 인공지능 디펜스게임  
 2021 AI 수업에서 진행한 텀프로젝트입니다.  
 
