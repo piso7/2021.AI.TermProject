@@ -3,8 +3,8 @@ Startup Success Prediction
 인공지능 미니챌린지 / 인공지능 디펜스게임  
 2021 AI 수업에서 진행한 텀프로젝트입니다.  
 
-AI Mini Challenge / AI Defense Game
-It's the "Tum Project" from the 2021 AI class  
+AI Mini Challenge / AI Defense Game  
+Term-Project from the AI lecture, 2022  
 
 ## 진행방법
 [마감 10/31][1단계] 주제 선정  
